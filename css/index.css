@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* 初始化 */
+/*常量*/
+body {
+  padding-top: 180px; }
+
+/* 导航条 */
+.my-navbar {
+  opacity: 0.8; }
+
+/* 背景图片 */
+.my-backgroundImg {
+  z-index: -1; }
+
+.backgroundImg {
+  background-image: url("../images/nav.png");
+  height: 180px;
+  background-size: cover;
+  opacity: 1; }
+
+/*# sourceMappingURL=index.css.map */
